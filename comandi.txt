@@ -1,0 +1,9 @@
+dir
+cd Documents/
+cd Repository/
+git clone https://github.com/CalloniMassimo/3AIExample.git
+cd 3AIExample
+git add es1.txt
+git commit -m "add es1.txt"
+git push
+
